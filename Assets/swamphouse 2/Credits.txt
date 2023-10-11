@@ -1,0 +1,15 @@
+SwampHouse 2
+
+* Faces: 8,202
+* Edges: 14,018
+
+-Advantages:
+-You can place this model on any type of terrain / water body.
+-Interior / has a bottom entrance.
+-Fully Textured with Bump Maps / Textures are separated so that user can also use their own textures.
+-Textures / Normal Mapping (6 textures) mostly all important textures are 1024 Max Size.
+
+-Uses: This model can be placed anywhere
+Bulb's Material can be used as ** Emission** in Unity Editor.
+
+- by AP3X
